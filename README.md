@@ -1,7 +1,8 @@
 ### Olá Bem vindo a minha segunda casa 👋
 
 - 🔭 Atualmente trabalhando com flutter e dart
-- 🌱 No momento aprendendo Clean architeture e tdd
+- 🌱 No momento estudando Clean architeture e tdd
+- 🤖 Futuramente estudar Swift e Kotlin
 
 <div align="center">
   <a href="https://github.com/Flavio-Vieirastack">
